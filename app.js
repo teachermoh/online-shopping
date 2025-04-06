@@ -10,3 +10,4 @@ function mul(){
 function div(){
     let d=10;
 }
+// already tested with test cases
