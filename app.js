@@ -4,3 +4,6 @@ function add(){
 function sub(){
     let b=10;
 }
+function mul(){
+    let c=10;
+}
