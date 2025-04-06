@@ -7,3 +7,6 @@ function sub(){
 function mul(){
     let c=10;
 }
+function div(){
+    let d=10;
+}
